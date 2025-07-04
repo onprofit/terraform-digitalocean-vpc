@@ -5,16 +5,18 @@
 # locals for regions
 locals {
   region = {
-    amsterdam-2 = "ams2"
     amsterdam-3 = "ams3"
+    atlanta-1   = "atl1"
     bangalore-1 = "blr1"
     frankfurt-1 = "fra1"
-    london-1    = "lon-1"
+    london-1    = "lon1"
     newyork-1   = "nyc1"
     newyork-2   = "nyc2"
     newyork-3   = "nyc3"
-    francisco-1 = "sfo1"
+    francisco-2 = "sfo2"
+    francisco-3 = "sfo3"
     singapore-1 = "sgp1"
+    sydney-1    = "syd1"
     toronto-1   = "tor1"
   }
 }
